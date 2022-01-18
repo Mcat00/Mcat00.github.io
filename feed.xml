@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="/jekyll-theme-yat/" rel="alternate" type="text/html" /><updated>2022-01-18T15:38:07+00:00</updated><id>/jekyll-theme-yat/feed.xml</id><title type="html">MOON</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>GitHub User</name></author><entry><title type="html">2021 동계 모각코 회고록</title><link href="/jekyll-theme-yat/mogacco/2022/01/12/220112_3.html" rel="alternate" type="text/html" title="2021 동계 모각코 회고록" /><published>2022-01-12T23:13:00+00:00</published><updated>2022-01-12T23:13:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/12/220112_3</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/12/220112_3.html"><![CDATA[<h2 id="2021-동계-모각코-회고록">2021 동계 모각코 회고록</h2>
+
+<p>지난 여름방학 두달이 넘는 시간을 그저 무의미하게 보냈던 자신을 반성하고 겨울에는 학교 프로그램에 참가하여 무엇이든 노력해보자 라는 생각으로 2021 동계 모각코에 참여하게 되었습니다.
+단순 수업, 자습이 아닌 팀원들과 시간을 정한 뒤 각각의 목표를 정하고 함께 공부하는 시간을 가지며 서로의 수행물들에 대해 이야기를 나누는 것은 여러모로 제게 신선한 느낌을 주었고, 학습에 있어서 많은 도움이 되었습니다. 특히 컴프2 마지막 부분인 서버와 DB등의 수업 때 뒤쳐지는 느낌을 받고 부족함을 느꼈는데, 이에 대하여 공부하고 팀원들의 피드백을 받으며 개발자로서의 소양을 기르는데 많은 도움이 되었습니다. 나아가 서버의 소통 방식, HTTP와 MQTT에 대해 공부하며 단순히 해당 내용에 대해서만 공부하는 것이 아닌 과정에서 습득 할 수 있는 정보들을 접하며 많은 지식을 익힐 수 있었습니다.
+아무 일도 없이 지낼뻔한 겨울을 모각코 활동을 하며 의미있게 보낼 수 있던 것 같습니다.</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[2021 동계 모각코 회고록]]></summary></entry><entry><title type="html">2021 동계 모각코 6회차 결과</title><link href="/jekyll-theme-yat/mogacco/2022/01/12/220112_2.html" rel="alternate" type="text/html" title="2021 동계 모각코 6회차 결과" /><published>2022-01-12T22:44:00+00:00</published><updated>2022-01-12T22:44:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/12/220112_2</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/12/220112_2.html"><![CDATA[<h2 id="내용">내용</h2>
+
+<p>지금까지의 학습을 토대로 전력 효율이 좋고 나중에 프로젝트를 하게 될 때, 쓰기 좋은 프로토콜은 무엇일까 고려해보았다.
+MQTT가 IoT같이 코드 공간이 작고 저적력 환경에서도 동작이 가능하지만
+우리가 일반적으로 사용하기에는 토픽에 대한 내용을 실시간으로 받아올 필요가 거의 없고,
+HTTP에도 완전한 connectless 방식이 아닌 연결 시간을 어느 정도 조정 할 수 있는 옵션이 있다는 정보를 보면
+HTTP를 사용하는 편이 당장은 유용할 것 같다고 느꼈다. 이와 같은 학습 내용들에 대해 팀원들과 의견을 나누는 시간을 가지고
+내 생각들을 말해보았다.</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[내용]]></summary></entry><entry><title type="html">2021 동계 모각코 6회차 계획</title><link href="/jekyll-theme-yat/mogacco/2022/01/12/220112_1.html" rel="alternate" type="text/html" title="2021 동계 모각코 6회차 계획" /><published>2022-01-12T13:19:00+00:00</published><updated>2022-01-12T13:19:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/12/220112_1</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/12/220112_1.html"><![CDATA[<h2 id="6회차2022-01-12">6회차(2022-01-12)</h2>
+
+<h3 id="목표">목표</h3>
+
+<p>다양한 통신 프로토콜 중 프로젝트에 어울리고 전력 효율이 좋은 통신방법 찾기</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[6회차(2022-01-12)]]></summary></entry><entry><title type="html">2021 동계 모각코 5회차 결과</title><link href="/jekyll-theme-yat/mogacco/2022/01/11/220111_2.html" rel="alternate" type="text/html" title="2021 동계 모각코 5회차 결과" /><published>2022-01-11T22:32:00+00:00</published><updated>2022-01-11T22:32:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/11/220111_2</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/11/220111_2.html"><![CDATA[<h2 id="내용">내용</h2>
+
+<p>지난 회차들에서 학습한 MQTT와 HTTP/HTTPS 등을 토대로 소켓통신과 비교해보았다.
+소켓통신은 두 프로그램이 서로 데이터를 주고 받을 수 있는 양방향 연결이 이루어 지는 통신이고
+connectless 방식이 아니기 때문에 연결을 끊지 않고 유지한다.
+때문에 자주 데이터를 주고 받아야 하는 경우 (예를 들면 실시간 스트리밍)에는 소켓 통신같은 것이 적합하지만
+더 많은 자원이 소모된다.
+반면 HTTP같은 경우는 클라이언트의 요청에 서버가 응답하는 단방향 통신이고 connection을 끊어 자원 효율이 높다.
+하지만 필요한 경우에는 옵션을 주어 일정 시간 connetion을 유지하는 것도 가능하다고 한다.
+MQTT와도 비교하고 싶었지만 아직 MQTT를 잘 이해하지 못하여 HTTP와 어느정도 비슷한 차이가 있다 정도만 알 수 있었다.</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[내용]]></summary></entry><entry><title type="html">2021 동계 모각코 5회차 계획</title><link href="/jekyll-theme-yat/mogacco/2022/01/11/220111_1.html" rel="alternate" type="text/html" title="2021 동계 모각코 5회차 계획" /><published>2022-01-11T14:00:00+00:00</published><updated>2022-01-11T14:00:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/11/220111_1</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/11/220111_1.html"><![CDATA[<h2 id="5회차2022-01-11">5회차(2022-01-11)</h2>
+
+<h3 id="목표">목표</h3>
+
+<p>소켓통신과 MQTT, HTTP의 비교</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[5회차(2022-01-11)]]></summary></entry><entry><title type="html">2021 동계 모각코 4회차 결과</title><link href="/jekyll-theme-yat/mogacco/2022/01/05/220105_2.html" rel="alternate" type="text/html" title="2021 동계 모각코 4회차 결과" /><published>2022-01-05T21:45:00+00:00</published><updated>2022-01-05T21:45:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/05/220105_2</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/05/220105_2.html"><![CDATA[<h2 id="내용">내용</h2>
+
+<p>저번에 학습했던 HTTP와 MQTT를 한번 따라해 보기 위해
+MQTT는 모스키토를 이용하여 구현하였지만, 자주 접할 수 있는 HTTP보다 대중적이지 않아서 인지
+구조적인 이해도 잘 와닿지 않고 이해가 어려웠다.
+HTTP는 Python으로 Flask를 이용하여 간단한 웹서버를 만들어 보았다.
+정말 단순히 특정 글자를 웹 페이지에 띄우는 수준으로 안드로이드 스튜디오처럼 무언가 더 내용을 넣어보려 했지만 쉽지 않아 더 많은 학습이 필요함을 느꼈다.</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[내용]]></summary></entry><entry><title type="html">2021 동계 모각코 4회차 계획</title><link href="/jekyll-theme-yat/mogacco/2022/01/05/220105_1.html" rel="alternate" type="text/html" title="2021 동계 모각코 4회차 계획" /><published>2022-01-05T05:13:00+00:00</published><updated>2022-01-05T05:13:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/05/220105_1</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/05/220105_1.html"><![CDATA[<h2 id="4회차2022-01-05">4회차(2022-01-05)</h2>
+
+<h3 id="목표">목표</h3>
+<p>MQTT 및 HTTPS 프로토콜 실습하기</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[4회차(2022-01-05)]]></summary></entry><entry><title type="html">2021 동계 모각코 3회차 후기</title><link href="/jekyll-theme-yat/mogacco/2022/01/04/220104_2.html" rel="alternate" type="text/html" title="2021 동계 모각코 3회차 후기" /><published>2022-01-04T23:02:00+00:00</published><updated>2022-01-04T23:02:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/04/220104_2</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/04/220104_2.html"><![CDATA[<h2 id="내용">내용</h2>
+
+<p>저번주에 학습했던 네트워크 통신과 MQTT 프로토콜에 대해 복습하고,
+HTTP 프로토콜에 대해 학습해 보았다.
+HTTP역시 MQTT처럼 TCP/IP 를 기반으로 작동하며 OSI 7계층중 응용계층에 위치한다.
+가장 성공적인 프로토콜인 만큼 일반적으로 우리에게 친숙한 서버-클라이언트 모델을 사용하여 HTML및 다양상 데이터들을 전송한다.
+HTTP는 Connectless 방식으로 작동하는데 이는 클라이언트가 서버에 연결하고 요청에 대한 응답을 받으면 연결을 끊어버려서 접속 유지를 최소한으로 하여 자원을 아끼는 동시에 많은 유저의 요청을 처리 할 수 있다는 장점이 있다.
+물론 연결을 끊어버리는 만큼 클라이언트의 이전 상태정보를 알 수 없게 되는데 이를 stateless 라고 한다.
+이를 공부하는 과정에서 그럼 어떻게 클라이언트의 정보나 과거 응답 기록에 대한 정보를 파악할 수 있을까 하는 궁금증이 생겼는데
+이를 cookie로 처리한다고 한다. 이런 느낌으로 학습 과정중 파생되는 것들에 대해 또다시 학습해 갈 수 있었다.</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[내용]]></summary></entry><entry><title type="html">2021 동계 모각코 3회차 계획</title><link href="/jekyll-theme-yat/mogacco/2022/01/04/220104_1.html" rel="alternate" type="text/html" title="2021 동계 모각코 3회차 계획" /><published>2022-01-04T05:49:00+00:00</published><updated>2022-01-04T05:49:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2022/01/04/220104_1</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2022/01/04/220104_1.html"><![CDATA[<h2 id="3회차2022-01-04">3회차(2022-01-04)</h2>
+
+<h3 id="목표">목표</h3>
+<p>HTTPS 프로토콜에 대한 개념 학습</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[3회차(2022-01-04)]]></summary></entry><entry><title type="html">2021 동계 모각코 2회차 후기</title><link href="/jekyll-theme-yat/mogacco/2021/12/29/211229_2.html" rel="alternate" type="text/html" title="2021 동계 모각코 2회차 후기" /><published>2021-12-29T23:12:00+00:00</published><updated>2021-12-29T23:12:00+00:00</updated><id>/jekyll-theme-yat/mogacco/2021/12/29/211229_2</id><content type="html" xml:base="/jekyll-theme-yat/mogacco/2021/12/29/211229_2.html"><![CDATA[<h2 id="결과">결과</h2>
+
+<p>지난 회차의 학습했던 OSI 7계층과, TCP/IP 연결 방식을 기반으로 MQTT에 대하여 학습해보았다.
+MQTT는 TCP/IP 프로토콜을 기반으로 동작하는 발행-구독(Publish-Subscribe)모델의 메시지 송수신 프로토콜이다.
+굉장히 가볍고 많은 통신 제약을 해결해준다는 점에서 IoT처럼 규모가 작거나 네트워크 대역폭이 제한되는 원격통신에
+쓰인다고 한다. 이에 대해 공부하는중 네트워크 통신에 있어서 연결지향적이라는 것과 QoS라는 용어들에 대해서도 학습할 수 있었다.
+MQTT의 가장 큰 특징은 특정 Topic에 대해 발행, 구독을 하고 브로커라는 중간단계를 통하여 메시지를 전달하는 것이다.
+위처럼 간단한 개념과 (아주 기초적인) 동작 구조에 대해서 알아봤는데 브로커라는 것이 정확히 무엇이고 어떤 원리로 작동하는지 까지 이해하기에는 아직 전반적인 프로그래밍에 대한 이해가 부족하여 이후 있을 회차에 간단한 실습을 통해 알아보기로 하였다.</p>]]></content><author><name>GitHub User</name></author><category term="mogacco" /><summary type="html"><![CDATA[결과]]></summary></entry></feed>
